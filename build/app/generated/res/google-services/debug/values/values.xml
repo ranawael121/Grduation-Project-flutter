@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">579069389493-3i6bpc2pa3pqpd9qc3v564jc23c1p71a.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">579069389493</string>
+    <string name="google_api_key" translatable="false">AIzaSyB97JMmP538W59JcBbKu6zms3kqAA9G89o</string>
+    <string name="google_app_id" translatable="false">1:579069389493:android:af552ba0adc03800206cfc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB97JMmP538W59JcBbKu6zms3kqAA9G89o</string>
+    <string name="google_storage_bucket" translatable="false">mamy-guide.appspot.com</string>
+    <string name="project_id" translatable="false">mamy-guide</string>
+</resources>
